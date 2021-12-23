@@ -1,5 +1,5 @@
-[![Header](https://github.com/DarkPyDeu/darkpydeu/blob/master/assets/Header.png)](https://vk.com/darkpysharp)
+[![Header](https://raw.githubusercontent.com/DarkPyDeu/darkpydeu/main/assets/Header.png)](https://vk.com/darkpysharp)
 
 ## Hey ✌
 
-#### I`m learn -> | Python | C# | HTML | CSS | JavaScript |
+### I`m learn -> | Python | C# | HTML | CSS | JavaScript |
