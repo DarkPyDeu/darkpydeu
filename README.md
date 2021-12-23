@@ -1,1 +1,5 @@
-[![Header](https://github.com/DarkPyDeu/darkpydeu/blob/master/assets/Header.png)](https://www.youtube.com/watch?v=1yELlB39TvY)
+[![Header](https://github.com/DarkPyDeu/darkpydeu/blob/master/assets/Header.png)](https://vk.com/darkpysharp)
+
+## Hey ✌
+
+#### learning -> | Python | C# | HTML | CSS | JavaScript |
