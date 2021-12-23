@@ -2,4 +2,4 @@
 
 ## Hey ✌
 
-### I`m learn -> | Python | C# | HTML | CSS | JavaScript |
+### I`m learning -> | Python | C# | HTML | CSS | JavaScript |
